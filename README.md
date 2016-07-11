@@ -1,5 +1,6 @@
 # GTM-snippets
 
+## Listen for ajax events
 ```javascript
 <script id="gtm-jq-ajax-listen" type="text/javascript">
   (function() {
@@ -122,12 +123,5 @@
 
 
   })();
-  /*
-   * v0.1.0
-   * Created by the Google Analytics consultants at http://www.lunametrics.com
-   * Written by @notdanwilkerson
-   * Documentation: http://www.lunametrics.com/blog/2015/08/27/ajax-event-listener-google-tag-manager/
-   * Licensed under the Creative Commons 4.0 Attribution Public License
-   */
 </script>
 ```
