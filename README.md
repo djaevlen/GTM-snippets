@@ -1,6 +1,7 @@
 # GTM-snippets
 
-´´´´<script id="gtm-jq-ajax-listen" type="text/javascript">
+```javascript
+<script id="gtm-jq-ajax-listen" type="text/javascript">
   (function() {
 
     'use strict';
@@ -129,4 +130,4 @@
    * Licensed under the Creative Commons 4.0 Attribution Public License
    */
 </script>
-´´´´
+```
