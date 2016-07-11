@@ -1,6 +1,6 @@
 # GTM-snippets
 
-## Listen for ajax events
+#### Listen for ajax events
 ```javascript
 <script id="gtm-jq-ajax-listen" type="text/javascript">
   (function() {
